@@ -1,0 +1,14 @@
+<main >
+    
+    <div class="row">
+       
+        <div class="col-xs-6 col-lg-4" ng-repeat="item in allData.items | orderBy:random">
+          <h2>{{item.name}}</h2>
+         
+          <img ng-src="img/{{item.img}}.jpg" />
+          
+          <p><a class="btn btn-default" href="#/details/{{item.id}}" role="button">View details &raquo;</a></p>
+        </div>
+        
+    </div>
+</main> 

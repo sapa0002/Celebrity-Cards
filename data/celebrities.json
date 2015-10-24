@@ -1,0 +1,16 @@
+{"items":[
+    {"id":1, "name":"Al Pacino", "desc":"Actor", "net_worth":1.99, "img": "al_pacino"},
+    {"id":2, "name":"Ashton Kutcher", "desc":"Actor", "net_worth":2.99, "img": "ashton_kutcher"},
+    {"id":3, "name":"Cameron Diaz", "desc":"Actor", "net_worth":3.99, "img": "cameron_diaz"},
+    {"id":4, "name":"Hugh Laurie", "desc":"Actor", "net_worth":4.99, "img": "hugh_laurie"},
+    {"id":5, "name":"James Cameron", "desc":"Director.", "net_worth":5.99, "img": "james_cameron"},
+    {"id":6, "name":"Jet Li", "desc":"Actor.", "net_worth":6.99, "img": "jet_li"},
+    {"id":7, "name":"Natalie Portman", "desc":"Actor", "net_worth":7.99, "img": "natalie_portman"},
+    {"id":8, "name":"Reese Witherspoon", "desc":"Actor", "net_worth":8.99, "img": "reese_witherspoon"},
+    {"id":9, "name":"Sean Penn", "desc":"Actor", "net_worth":9.99, "img": "sean_penn"},
+    {"id":10, "name":"Tom Hanks", "desc":"Actor", "net_worth":10.99, "img": "tom_hanks"},
+    {"id":11, "name":"Marisa Tomei", "desc":"Actor", "net_worth":11.99, "img": "marisa_tomei"},
+    {"id":12, "name":"Denzel Washington", "desc":"Actor", "net_worth":12.99, "img": "denzel_washington"}
+
+
+]}
